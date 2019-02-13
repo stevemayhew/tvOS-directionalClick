@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					FF8133881F135A3000AADE86 = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = L27TU8W49Z;
+						DevelopmentTeam = 25K25AAD6K;
 						ProvisioningStyle = Automatic;
 					};
 					FF8133991F135A3100AADE86 = {
@@ -406,10 +406,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = L27TU8W49Z;
+				DEVELOPMENT_TEAM = 25K25AAD6K;
 				INFOPLIST_FILE = "tvOS-directionalClick/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.dcordero.tvOS-directionalClick";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tivo.directionalClick;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -420,10 +420,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = L27TU8W49Z;
+				DEVELOPMENT_TEAM = 25K25AAD6K;
 				INFOPLIST_FILE = "tvOS-directionalClick/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.dcordero.tvOS-directionalClick";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tivo.directionalClick;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -502,6 +502,7 @@
 				FF8133B01F135A3100AADE86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FF8133B11F135A3100AADE86 /* Build configuration list for PBXNativeTarget "tvOS-directionalClickTests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +511,7 @@
 				FF8133B31F135A3100AADE86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FF8133B41F135A3100AADE86 /* Build configuration list for PBXNativeTarget "tvOS-directionalClickUITests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +520,7 @@
 				FF8133B61F135A3100AADE86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
